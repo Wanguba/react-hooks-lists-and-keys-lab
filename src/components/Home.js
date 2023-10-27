@@ -8,6 +8,5 @@ function Home({ color, username, city }) {
       </h1>
     </div>
   );
-}
-
+  }
 export default Home;
